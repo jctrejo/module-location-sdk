@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197190590210",
+    "project_id": "prueba-pokemon-location",
+    "storage_bucket": "prueba-pokemon-location.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197190590210:android:ad674efecf56d098e96c1b",
+        "android_client_info": {
+          "package_name": "com.android.locationsdk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbMf6fscxvTYU8NMr-MpKgwlsOPlPjI4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
